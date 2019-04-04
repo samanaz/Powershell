@@ -1,4 +1,4 @@
-﻿Import-Module "C:\Users\saman.a\OneDrive - Retail Insight Ltd\Azure Services\Azure Full Services Deployment\Infrastructure-Naming.ps1"
+﻿
 # Please Work on
 Function Get-RIAzSqlDatabaseEdition {
     [cmdletbinding()]
