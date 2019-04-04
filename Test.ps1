@@ -15,3 +15,4 @@ Write-Output $ModuleDatabase
 Import-Module $ModuleInfrastructureName
 Import-Module $ModuleInfrastructureDeployment
 Import-Module $ModuleDatabase
+Get-RIAzResourceGroupName -Region "aea" -System "vmi" -ResourceType "db" -Environment "dev"
